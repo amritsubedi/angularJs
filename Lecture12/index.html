@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html ng-app="MsgApp">
+<head>
+    <meta charset="UTF-8">
+    <script src="angular.min.js"></script>
+    <script src="app.js"></script>
+    <title>Filters</title>
+</head>
+<body ng-controller="MsgController">
+    <h1>Filters</h1>
+    <div>
+        {{name}} has a message for you.
+        <br>
+        Original: {{sayMessage()}}
+        <br>
+        Filtered: {{sayFilteredMessage()}}
+        <br>
+        Truth: {{sayFilteredMessage() | truth : 'tea' : 'mo:mo' | uppercase}}
+        <br>
+        Cost: {{cookieCost | currency}}
+        <br>
+        <div>
+            <button ng-click="feedAnjali()">Feed Anjali</button>
+            <br>
+
+            <!-- Show the state -->
+            {{stateOfBeing}}
+        </div>
+    </div>
+</body>
+</html>

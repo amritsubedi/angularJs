@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94c8a28a-6979-412d-b89a-4556a57a295f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Lecture09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture09/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lecture09/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture09/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,6 +69,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,7 +81,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -121,14 +121,15 @@
       <workItem from="1553321320396" duration="22000" />
       <workItem from="1553453772414" duration="4000" />
       <workItem from="1553547978396" duration="2000" />
+      <workItem from="1553562467050" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9284000" />
+    <option name="totallyTimeSpent" value="9287000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="728" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="728" extended-state="0" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2494043" />
