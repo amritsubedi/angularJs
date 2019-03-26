@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94c8a28a-6979-412d-b89a-4556a57a295f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Lecture06/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture06/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture09/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture09/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lecture09/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lecture09/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -55,10 +56,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="777" />
+    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -119,11 +120,12 @@
       <workItem from="1553300420742" duration="9256000" />
       <workItem from="1553321320396" duration="22000" />
       <workItem from="1553453772414" duration="4000" />
+      <workItem from="1553547978396" duration="2000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9282000" />
+    <option name="totallyTimeSpent" value="9284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="6" />
